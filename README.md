@@ -26,3 +26,5 @@ När du är klar med din presentationssida så ska du skapa en pull request till
 ## 4. Presentation
 
 Seminariet avslutas med en gemensam presentation där gruppen visar resultatet för sin gruppsida samt reflekterar kring arbetsflödet Gitflow och grupparbete!
+
+**Canvas:** [YTMVP9 Y0376 > Uppgifter > Seminarium: Hackaton](https://ju.instructure.com/courses/2824/assignments/5992?module_item_id=32956)
